@@ -1,19 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1722535056630" clover="3.2.0">
-  <project timestamp="1722535056630" name="All files">
-    <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1" elements="17" coveredelements="17" complexity="0" loc="10" ncloc="10" packages="1" files="1" classes="1"/>
+<coverage generated="1722691411022" clover="3.2.0">
+  <project timestamp="1722691411022" name="All files">
+    <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2" elements="7" coveredelements="7" complexity="0" loc="4" ncloc="4" packages="1" files="1" classes="1"/>
     <file name="index.js" path="C:\Users\Denis\Desktop\курсики\objects2\src\index.js">
-      <metrics statements="10" coveredstatements="10" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
-      <line num="2" count="3" type="stmt"/>
-      <line num="3" count="3" type="cond" truecount="4" falsecount="0"/>
-      <line num="4" count="1" type="stmt"/>
-      <line num="5" count="1" type="stmt"/>
+      <metrics statements="4" coveredstatements="4" conditionals="1" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="2" type="cond" truecount="1" falsecount="0"/>
+      <line num="4" count="2" type="stmt"/>
       <line num="6" count="1" type="stmt"/>
-      <line num="7" count="2" type="cond" truecount="2" falsecount="0"/>
-      <line num="8" count="1" type="stmt"/>
-      <line num="9" count="1" type="stmt"/>
-      <line num="11" count="1" type="stmt"/>
-      <line num="14" count="3" type="stmt"/>
     </file>
   </project>
 </coverage>
